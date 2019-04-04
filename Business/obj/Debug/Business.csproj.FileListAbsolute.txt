@@ -1,0 +1,15 @@
+D:\C# school\OurProject\Memo\Business\bin\Debug\Business.dll.config
+D:\C# school\OurProject\Memo\Business\bin\Debug\Business.dll
+D:\C# school\OurProject\Memo\Business\bin\Debug\Business.pdb
+D:\C# school\OurProject\Memo\Business\bin\Debug\Data.dll
+D:\C# school\OurProject\Memo\Business\bin\Debug\EntityFramework.dll
+D:\C# school\OurProject\Memo\Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# school\OurProject\Memo\Business\bin\Debug\Data.pdb
+D:\C# school\OurProject\Memo\Business\bin\Debug\Data.dll.config
+D:\C# school\OurProject\Memo\Business\bin\Debug\EntityFramework.xml
+D:\C# school\OurProject\Memo\Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# school\OurProject\Memo\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\C# school\OurProject\Memo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\C# school\OurProject\Memo\Business\obj\Debug\Business.csproj.CopyComplete
+D:\C# school\OurProject\Memo\Business\obj\Debug\Business.dll
+D:\C# school\OurProject\Memo\Business\obj\Debug\Business.pdb
